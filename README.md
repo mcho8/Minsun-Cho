@@ -1,2 +1,3 @@
-# p5js
-WAVE2. Greenery Flow
+# greenertflow.tk/wave
+WAVE2. Greenery Flow : NO ESCAPE HOLE
+Minsun Cho
